@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902541233672",
+    "firebase_url": "https://myhiking-17339.firebaseio.com",
+    "project_id": "myhiking-17339",
+    "storage_bucket": "myhiking-17339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902541233672:android:17bc76271ca492b174cbbd",
+        "android_client_info": {
+          "package_name": "com.bigbang.myhiking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902541233672-uk8enm5v2tiragi2rhhm8gcho2pjec8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigbang.myhiking",
+            "certificate_hash": "13dfcbbf3abcc07bb4946ca300975ad6d5366012"
+          }
+        },
+        {
+          "client_id": "902541233672-a6k7deke1nkg4jdpivec8hltq06q48bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7-wmDi3t81_D8RynQqEB-Hcj4Wad59-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902541233672-a6k7deke1nkg4jdpivec8hltq06q48bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
