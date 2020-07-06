@@ -21,8 +21,6 @@ class LoginActivity : AppCompatActivity() {
             Toast.makeText(this, "User must log in!!!!!!", Toast.LENGTH_SHORT).show()
         }
 
-
-
         login.setOnClickListener {
 
             val email = username.text.toString().trim()
@@ -65,16 +63,14 @@ class LoginActivity : AppCompatActivity() {
 //                            wrong password o some other error
                             Toast.makeText(this, "${task.exception?.message}", Toast.LENGTH_SHORT)
                                 .show()
-
                         }
-
-
                     }
 
                 }
 
         }
     }
+
 
     private fun verificaitonToast() {
         Toast.makeText(this, "Please verify email - link sent", Toast.LENGTH_SHORT).show()

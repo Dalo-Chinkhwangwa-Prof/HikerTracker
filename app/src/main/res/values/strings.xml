@@ -2,6 +2,8 @@
     <string name="app_name">MyHiking</string>
     <string name="add_new_post_text">Add New Post</string>
     <string name="title_activity_login">LoginActivity</string>
+    <string name="chat_activity">LoginActivity</string>
+    <string name="home_activity">LoginActivity</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in or register</string>
